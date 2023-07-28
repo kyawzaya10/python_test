@@ -1,0 +1,10 @@
+my_string="We are teaching Python"
+print(my_string)
+print(my_string[1])
+print(my_string[0:5])
+print(my_string[0:5:2])
+print(my_string[-1])
+print(len(my_string))
+print(my_string.count("e"))
+print(my_string.find("e"))
+print(my_string.lower())
